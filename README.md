@@ -31,14 +31,14 @@ O objetivo é demonstrar o uso de **Flutter** para criar interfaces modernas e i
 
 ## 📂 Estrutura do Projeto
 
-my_card_flutter/
-├── lib/
-│   └── main.dart
-├── assets/
-│   └── images/
-│       └── avatar.png
-├── pubspec.yaml
-└── README.md
+- my_card_flutter/
+  - lib/
+    - main.dart
+  - assets/
+    - images/
+      - avatar.png
+  - pubspec.yaml
+  - README.md
 
 ---
 

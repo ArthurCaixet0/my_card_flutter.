@@ -63,17 +63,20 @@ O objetivo é demonstrar o uso de **Flutter** para criar interfaces modernas e i
 ---
 
 ## 📸 Captura de Tela
-<img width="960" height="503" alt="{01B6F32C-D0C0-49B6-AB38-961D80A76283}" src="https://github.com/user-attachments/assets/9d839286-a441-4e3f-be56-2de57d37e3a6" />
+<img width="960" height="503" alt="{46753E0B-E895-4317-BCA4-2B0EA70D6372}" src="https://github.com/user-attachments/assets/43d08fb1-7ccf-45e0-ba11-dd487e843220" />
 
 ---
 
 ## 👨‍💻 Autor
 
-Arthur Caixeta de Souza  
+Arthur Caixeta  
 📧 caixeta571@gmail.com  
 📍 Anápolis - GO  
 💻 github.com/ArthurCaixet0
 
+---
+
+## 🔒 Os dados de contato exibidos são fictícios, usados apenas para fins de demonstração.
 
 ---
 

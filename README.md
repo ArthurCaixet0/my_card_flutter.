@@ -63,7 +63,7 @@ O objetivo é demonstrar o uso de **Flutter** para criar interfaces modernas e i
 ---
 
 ## 📸 Captura de Tela
-<img width="960" height="502" alt="{74CC3854-4863-4532-AA52-5B06E3F0D681}" src="https://github.com/user-attachments/assets/83ba22e1-7b02-42ef-bbff-8e8444e8ffd8" />
+<img width="960" height="503" alt="{01B6F32C-D0C0-49B6-AB38-961D80A76283}" src="https://github.com/user-attachments/assets/9d839286-a441-4e3f-be56-2de57d37e3a6" />
 
 ---
 
